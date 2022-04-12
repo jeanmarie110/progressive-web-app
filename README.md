@@ -72,9 +72,6 @@ In browser, open [http://localhost:3000](http://localhost:3000)
 
 - [Awesome Meta and Manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest)
 
-#### License
-
-MIT © [Gokulakrishnan](https://github.com/gokulkrishh)
 
 <div align="center">
   <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
