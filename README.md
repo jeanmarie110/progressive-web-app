@@ -11,13 +11,13 @@
 #### `Step 1` - clone the repo
 
 ```bash
-$ git clone https://github.com/gokulkrishh/demo-progressive-web-app
+$ git clone https://github.com/jeanmarie110/progressive-web-app
 ```
 
 #### `Step 2` - cd in the repo
 
 ```bash
-$ cd demo-progressive-web-app
+$ cd progressive-web-app
 ```
 
 #### `Step 3` - install dependencies
@@ -32,7 +32,7 @@ $ npm install
 $ npm run start
 ```
 
-In browser, open [http://localhost:3000](http://localhost:3000)
+In browser, open [http://localhost:3000](http://localhost:4500)
 
 ## Main Features
 
